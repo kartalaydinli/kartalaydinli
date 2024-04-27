@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartalaydinli
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Unreal Engine and C++
+- 🌱 I’m currently learning html, css, javascript
 - 📫 How to reach me 1212kartalbabo@gmail.com and kartalaydinli2003@gmail.com
 
 <!---
